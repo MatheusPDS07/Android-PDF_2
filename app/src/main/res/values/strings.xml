@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android-PDF_2</string>
+    <string name="android_pdf">Android-PDF</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="item">ITEM</string>
+    <string name="value">VALUE</string>
+    <string name="create_list">CREATE LIST</string>
+    <string name="generate_pdf">Generate PDF</string>
+</resources>
